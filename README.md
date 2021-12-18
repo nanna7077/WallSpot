@@ -1,6 +1,7 @@
 # WallSpot
 A simple program to display current playing from Spotify app on your desktop
 
+![](https://raw.githubusercontent.com/nanna7077/WallSpot/main/wallspot.gif)
 
 ## How to Use:
 ### Linux:
