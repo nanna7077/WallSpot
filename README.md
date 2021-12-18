@@ -20,6 +20,16 @@ Now you can find a menu entry named "WallSpot" in your applications menu.
 
 You can close the program by right clicking on the tray icon and clicking Exit.
 
+#### Dependencies:
+
+The program requires ```pillow``` and ```pystray``` to work. It tries to install these dependencies on its own (requires internet), if it can't, it would not launch and you can manually install them by
+
+```pip install pillow```
+
+and
+
+```pip install pystray```
+
 ### Windows:
 
 Support for Windows is a Work In Progress. Please check this out in a few days.
