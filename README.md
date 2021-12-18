@@ -8,7 +8,7 @@ A simple program to display current playing from Spotify app on your desktop
 
 *Currently Supports GNOME and KDE. If you want to support your Desktop Environment and know how to set wallpaper via command line, please create an issue.*
 
-Download the installer [from here]() and go to the path where you downloaded the installer to and do
+Download the installer [from here](https://github.com/nanna7077/WallSpot/releases/download/release/wallspotInstaller.sh) and go to the path where you downloaded the installer to and do
 
 ```chmod +x wallspotInstaller.sh```
 
